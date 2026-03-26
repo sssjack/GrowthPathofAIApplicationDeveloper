@@ -1,2 +1,6 @@
-在学习AI Agent的记录
-一开始是在https://www.bilibili.com/video/BV1yjz5BLEoY这里学的
+#### 在学习AI Agent的记录
+#### 一开始是在https://www.bilibili.com/video/BV1yjz5BLEoY这里学的
+#### ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+####  🧠 在学习 AI Agent 的记录
+#### ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+####  Agent | RAG | 工具调用 | 记忆 | 大模型
