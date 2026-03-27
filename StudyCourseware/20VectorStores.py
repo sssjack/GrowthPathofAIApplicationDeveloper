@@ -5,16 +5,17 @@ from langchain_chroma import Chroma
 
 
 vector_store = Chroma(
-    embedding=DashScopeEmbeddings(),
-    persist_directory="./vector_store"
+    collection_name="test",
+    embedding_function=DashScopeEmbeddings(),
+    persist_directory="./chroma_db"
 )
 
-vector_store = InMemoryVectorStore(
-    embedding=DashScopeEmbeddings()
-)
+# vector_store = InMemoryVectorStore(
+#     embedding=DashScopeEmbeddings()
+# )
 
 loader = CSVLoader(
-    file_path="./info.csv",
+    file_path="info.csv",
     encoding="utf-8",
     source_column="source",  # 指定本条数据的来源是哪里
 )
@@ -33,7 +34,8 @@ vector_store.delete(["id1", "id2"])
 # 检索 返回类型list[Document]
 result = vector_store.similarity_search(
     query="Python是不是简单易学呀",
-    k=3  # 检索的结果要几个
+    k=3,  # 检索的结果要几个
+    filter={"source": "黑马程序员"}  # 过滤条件
 )
 
 print(result)
