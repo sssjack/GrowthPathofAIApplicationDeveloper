@@ -1,0 +1,452 @@
+[
+    {
+        "type": "human",
+        "data": {
+            "content": "我身高170厘米，尺码推荐",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "根据您提供的身高170厘米，结合参考资料中的尺码推荐：\n\n- 若体重在90–115斤之间，建议选择 **M** 码；  \n- 若体重在115–135斤之间，建议选择 **L** 码。\n\n请根据您的实际体重选择对应尺码。",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "我身高170厘米，尺码推荐",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "根据您身高170厘米，参考尺码推荐标准：\n\n- 如果您的体重在 **90–115斤**，建议选择 **M 码**；  \n- 如果您的体重在 **115–135斤**，建议选择 **L 码**。\n\n请结合自身体重选择最合适的尺码。",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "我的体重是180斤，尺码推荐",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "根据您提供的体重180斤，参考尺码推荐标准：\n\n- 体重180斤落在 **160–180斤** 区间，对应建议尺码为 **3XL**（适用于身高178–185cm）。\n\n但请注意：尺码推荐同时考虑身高与体重。若您身高低于178cm，可能需要结合具体版型或咨询客服确认是否需调整尺码。若您的身高在推荐范围内（如178–185cm），则选择 **3XL** 合适。",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "你好",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "你好！请问有什么可以帮您的吗？",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "我的体重是150斤，尺码推荐\n\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "根据您提供的体重150斤，结合尺码推荐标准：\n\n- 体重150斤落在 **130–150斤** 区间，对应建议尺码为 **XL**（适用于身高170–178cm）。\n\n请确认您的身高是否在该范围内。若身高符合（如170–178cm），推荐选择 **XL** 码；若身高明显偏高或偏低，可能需要酌情调整尺码。",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "好滴谢谢",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "不客气！如有其他问题，欢迎随时咨询。祝您购物愉快！😊",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "你好",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "你好！请问有什么可以帮您的吗？",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "你好",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "你好！请问有什么可以帮您的吗？",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "你现在是什么模型",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "我是通义千问（Qwen），由通义实验室研发的大语言模型。我能够回答问题、创作文字、进行逻辑推理、编程等，支持多轮对话和多种语言。如果您有任何问题或需要帮助，欢迎随时告诉我！",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "好滴",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "好的！如有需要，随时告诉我哦～ 😊",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "你好",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "你好！请问有什么可以帮您的吗？",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "请问你是什么模型",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "我是通义千问（Qwen），由通义实验室研发的大语言模型。我能够回答问题、创作文字、进行逻辑推理、编程等，支持多轮对话和多种语言。如果您有任何问题或需要帮助，欢迎随时告诉我！",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "你是什么版本的AI",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "我是通义千问（Qwen）大语言模型，具体版本为 **Qwen3**。这是通义实验室推出的最新一代语言模型，具备更强的语言理解、多语言支持、代码生成和推理能力。如果您有任何问题或需要帮助，欢迎随时告诉我！",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "今天星期几",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "我无法获取您设备的实时日期和时间，因此无法确定今天是星期几。您可以在您的设备上查看日历或输入“今天日期”来获取准确信息。",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "夏天休闲场合穿衣推荐",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "夏天休闲场合穿衣推荐如下：\n\n1. **上衣**：选择轻薄透气的材质，如纯棉、亚麻或速干面料。推荐款式包括：\n   - 短袖T恤（纯色、条纹或简约印花）\n   - 亚麻衬衫（可单穿或敞开当外套）\n   - POLO衫（更显清爽有型）\n\n2. **下装**：\n   - 休闲短裤（长度在膝盖上下，避免过短；颜色可选卡其、藏青、浅灰等百搭色）\n   - 轻薄长裤（如棉麻混纺九分裤，适合怕晒或空调房）\n\n3. **鞋子**：\n   - 帆布鞋、板鞋（舒适百搭）\n   - 凉鞋或休闲拖鞋（适合海滩或极度炎热天气）\n   - 网面运动鞋（兼顾透气与活动需求）\n\n4. **配饰建议**：\n   - 遮阳帽、墨镜（防晒又增造型感）\n   - 小容量斜挎包或帆布托特包\n\n5. **颜色搭配**：以浅色系为主（白、米、浅蓝、浅灰），视觉清凉且反射阳光；也可用亮色小面积点缀提神。\n\n> 提示：根据具体场合（如逛街、郊游、朋友聚会）微调正式度，保持干净整洁是休闲穿搭的关键。",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "你好",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "你好！请问有什么可以帮您的吗？",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "你是啥模型",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "我是通义千问（Qwen），由通义实验室研发的大语言模型，当前版本为 Qwen3。我能够回答问题、创作文字、编程、进行逻辑推理，并支持多轮对话和多种语言。如果您有任何问题或需要帮助，欢迎随时告诉我！",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "今天适合传什么衣服，今天大雾，并且有点小雨",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "今天有大雾且伴有小雨，天气潮湿、能见度低，气温通常偏低或体感阴凉。建议穿衣兼顾**防雨、保暖与安全可见性**：\n\n### 推荐穿搭：\n1. **外套**：  \n   - 防水风衣或轻便雨衣（优先选择浅色或带反光条款式，提升雾天可见度）  \n   - 避免厚重棉服，可选内衬薄抓绒的防风夹克（兼顾保暖与灵活）\n\n2. **上衣**：  \n   - 长袖T恤、薄针织衫或卫衣（吸湿排汗材质为佳）\n\n3. **下装**：  \n   - 速干长裤或休闲裤（避免牛仔等吸水后难干的面料）  \n   - 若雨势稍大，可考虑防水徒步裤\n\n4. **鞋袜**：  \n   - 防滑防水的运动鞋或短靴  \n   - 搭配吸湿快干的袜子，避免脚部受潮着凉\n\n5. **配件**：  \n   - 折叠伞（必备！）  \n   - 浅色或亮色帽子/围巾（增强辨识度，保障出行安全）  \n   - 可携带一个防水袋，保护手机、证件等物品\n\n> **提示**：大雾天尽量减少外出；若需出行，请注意交通安全，穿着避免全深色，以提高被车辆和行人识别的概率。",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    }
+]

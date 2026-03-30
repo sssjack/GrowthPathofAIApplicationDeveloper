@@ -16,3 +16,10 @@ similarity_threshold = 1  # 检索返回匹配的文档数量
 # 模型
 embedding_model_name = "text-embedding-v4"
 chat_model_name = "qwen3-max"
+
+
+session_config = {
+    "configurable": {
+        "session_id": "user_001",
+    }
+}
