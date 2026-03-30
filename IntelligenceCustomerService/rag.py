@@ -7,15 +7,30 @@ from langchain_community.embeddings import DashScopeEmbeddings
 import config_data as config
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from langchain_community.chat_models.tongyi import ChatTongyi
+import sys
+
+try:
+    sys.stdout.reconfigure(encoding="utf-8")
+except Exception:
+    pass
 
 def print_prompt(prompt):
+    prompt_text = prompt.to_string()
     print("="*20)
-    print(prompt.to_string())
+    try:
+        print(prompt_text)
+    except UnicodeEncodeError:
+        buffer = getattr(sys.stdout, "buffer", None)
+        if buffer is not None:
+            buffer.write((prompt_text + "\n").encode("utf-8", errors="ignore"))
+        else:
+            print(prompt_text.encode("utf-8", errors="ignore").decode("utf-8"))
     print("="*20)
     return prompt
 
 class RagService(object):
-    def __init__(self):
+    def __init__(self, source_filter=None):
+        self.source_filter = source_filter
         self.vector_service = VectorStoreService(
             embedding=DashScopeEmbeddings(model=config.embedding_model_name)
         )
@@ -34,7 +49,7 @@ class RagService(object):
 
     def __get_chain(self):
         """获取最终的执行链"""
-        retriever = self.vector_service.get_retriever()
+        retriever = self.vector_service.get_retriever(source_filter=self.source_filter)
 
         def format_document(docs: list[Document]):
             if not docs:

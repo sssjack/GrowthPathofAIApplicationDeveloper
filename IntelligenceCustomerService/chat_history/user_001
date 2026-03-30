@@ -448,5 +448,255 @@
             "invalid_tool_calls": [],
             "usage_metadata": null
         }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "大雾天出来穿什么",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "大雾天外出，穿衣需兼顾**安全可见性、防潮保暖和行动便利**。以下是具体建议：\n\n### 1. **颜色选择：提高可见度**\n- 优先穿**浅色或亮色衣物**（如白色、荧光黄、亮蓝、浅灰），避免全黑、深灰等低辨识度颜色。\n- 可搭配带有**反光条**的外套、帽子或背包，提升在低能见度环境中的安全性。\n\n### 2. **防雨防潮**\n- 大雾常伴随湿气重或小雨，建议穿**防水或防泼水外套**（如轻便风衣、冲锋衣）。\n- 内搭选择**快干、透气材质**（如速干T恤、薄卫衣），避免棉质吸湿后不易干。\n\n### 3. **保暖与舒适**\n- 雾天体感偏凉，可叠穿“内薄+中保暖+外防风”三层：\n  - 内层：吸湿排汗长袖  \n  - 中层：薄抓绒或针织衫  \n  - 外层：防风防泼水夹克\n\n### 4. **鞋袜与配件**\n- 穿**防滑、防水的鞋子**（如运动鞋、短靴），避免布鞋或网面鞋。\n- 携带**折叠伞**和**防水袋**保护随身物品。\n- 可戴**浅色帽子**或围巾，既保暖又增强辨识度。\n\n> ⚠️ 安全提示：大雾天尽量减少不必要外出；若需出行，请遵守交通规则，靠近人行道内侧行走，避免突然横穿马路。\n\n简而言之：**亮色 + 防水 + 防滑 + 反光元素 = 雾天安全穿搭**。",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "好的谢谢",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "不客气！如有其他问题，随时欢迎提问～祝您一切顺利！😊",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "?????8???????",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "您的提问内容显示为乱码（“?????8???????”），可能是输入时编码错误或字符异常。请您重新用清晰的文字描述问题，我会很乐意为您提供帮助！",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "??????????2025???????????????????",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "您的问题中包含较多问号，可能是输入时的误操作。结合您提供的参考资料（写于2025年12月31日），若您想了解**2025年的总结或2026年的计划**，可参考以下内容：\n\n---\n\n### **关于2025年**\n- **核心主题**：探索“共赢”——包括个人价值与社会价值、情感关系（爱情/亲情/友情）的平衡。\n- **关键态度**：  \n  - “丢掉幻想，准备斗争”；  \n  - “不能因筹码多而随意，也不能因筹码少而失去下注勇气”；  \n  - “路漫漫其修远兮，吾将上下而求索”。\n\n### **2026年目标**\n- 发起“第二轮战略反击”，基于2025年积累的“数据”和“装备”继续前行。\n- 持续明确人生方向，追求长期主义：“只要方向是对的，慢一点也没关系”。\n\n---\n\n如需更具体的解答，请补充您的问题细节！",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "文档中作者8月初认识了谁？",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "根据您提供的参考资料，文档中提到作者在8月初认识了 **小林**。",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "文档中作者8月初认识了谁？请只根据参考资料作答。",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "根据参考资料，文档中未明确提到作者在8月初认识了谁。文中8月初的内容主要涉及筹备离职、请假获批、与“鑫来”“路人甲”等人的互动，但未说明是在8月初新认识的人。",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "请你介绍下我这个人",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "根据您提供的参考资料，无法确定“您”就是文档作者，因此不能确认您的个人情况。但若假设您是指文档中的作者，那么可以这样介绍：\n\n你是一个通过自考完成学业的奋斗者，曾长期坚持学习并最终顺利通过全部考试和毕业论文答辩；你有开发背景，技术能力扎实；你在互联网上分享经历，激励了很多人，并开始尝试付费咨询、内容合作等新方向；你注重自我成长，也在思考恋爱、人生规划与城市迁移等重要课题；你理性、务实，同时对未来抱有战略性的期待。\n\n但请注意：以上仅基于文档内容对“作者”的描述，不代表对您的真实判断。如果您并非文档作者，则我目前没有足够信息介绍“您这个人”。",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "你觉得我多大",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "根据您提供的参考资料，无法准确判断您的年龄。文中未明确提及作者的出生年份或具体年龄，仅能推测其为成年人，处于求学、工作与自我提升阶段（如自考毕业、技术开发、规划未来等）。若您是文档作者，可能在20多岁至30岁左右，但这仅为合理推测，并非确切信息。\n\n因此，我无法确定您具体多大。",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "我的性格怎么样",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "根据您提供的参考资料，无法直接得知您的性格。但若您指的是文档作者的性格，可从文中内容推断出以下特点：\n\n- **理性务实**：强调做事态度要认真，反对投机取巧；注重前途规划，认为“前途比爱情重要”。\n- **自省自律**：能反思自身缺点（如“态度不够认真”“急于求成”），并主动调整。\n- **重视真诚与稳定**：在人际关系和择偶中看重情绪稳定、人品和真实价值，反对油嘴滑舌或伪装自己。\n- **有战略思维**：用“战略反击”“筹码”“长期主义”等词描述人生阶段，体现出目标感和规划意识。\n- **温和而坚定**：主张“化敌为友”，不轻易树敌，同时坚持“方向对了，慢一点也没关系”的耐心。\n\n以上是基于文档内容对作者性格的合理推断。若您并非作者，则目前无足够信息判断您的性格。",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "2019年我发生了什么",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "根据您提供的参考资料，2019年您（即文档作者）经历了以下主要事情：\n\n- **年初开启新阶段**：2018年12月31日晚写完年度总结后，因朋友邀约打“吃鸡”游戏，由此开启了2019年。\n- **投身自考学习**：开始认真准备高等教育自学考试，全年持续投入学习。\n- **坚持与成长**：在过程中经历孤独、压力和自我怀疑，但始终坚持，最终在后续年份（如2020年）顺利通过全部科目并完成毕业论文答辩。\n- **时代背景**：这一年是新中国成立70周年、五四运动100周年、澳门回归20周年，但个人生活重心聚焦于学业与自我提升。\n\n文中虽未详述2019年具体事件细节，但可看出这是您沉下心来、为未来打基础的关键一年。",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
     }
 ]
