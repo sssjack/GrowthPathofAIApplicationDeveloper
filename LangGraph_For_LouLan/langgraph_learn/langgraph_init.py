@@ -13,7 +13,7 @@ from langgraph.checkpoint.memory import MemorySaver
 
 
 # 定义工具，获取当前日期
-@tool
+# @tool
 def get_current_date():
     """获取当前日期，返回格式为 YYYY-MM-DD 的字符串。"""
     print(f"   → [get_current_date] 函数被执行")
