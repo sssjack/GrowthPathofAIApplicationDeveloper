@@ -1,0 +1,33 @@
+2026-04-02 11:03:23,478 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有1条消息。
+2026-04-02 11:03:23,478 - agent - DEBUG - middleware.py:42 - [log_before_model]HumanMessage | 你好
+2026-04-02 11:03:33,569 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有1条消息。
+2026-04-02 11:03:33,569 - agent - DEBUG - middleware.py:42 - [log_before_model]HumanMessage | 我家70平米，我该用什么机器人
+2026-04-02 11:03:35,667 - agent - INFO - middleware.py:19 - [tool monitor]执行工具：rag_summarize
+2026-04-02 11:03:35,667 - agent - INFO - middleware.py:20 - [tool monitor]传入参数：{'query': '70平米户型扫地机器人选购建议'}
+2026-04-02 11:03:40,596 - agent - INFO - middleware.py:24 - [tool monitor]工具rag_summarize调用成功
+2026-04-02 11:03:41,739 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有3条消息。
+2026-04-02 11:03:41,739 - agent - DEBUG - middleware.py:42 - [log_before_model]ToolMessage | 70平米户型建议选择续航时间在90分钟以上、具备智能路径规划和自动回充功能的扫地机器人，优先考虑支持APP控制、吸力不低于2000Pa、尘盒容量在0.6L以上的型号，以确保一次充电可完成全屋清洁并减少人工干预。
+2026-04-02 11:06:10,326 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有1条消息。
+2026-04-02 11:06:10,326 - agent - DEBUG - middleware.py:42 - [log_before_model]HumanMessage | 你是什么模型
+2026-04-02 11:06:25,902 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有1条消息。
+2026-04-02 11:06:25,902 - agent - DEBUG - middleware.py:42 - [log_before_model]HumanMessage | 我家地板是瓷砖怎么办
+2026-04-02 11:06:28,327 - agent - INFO - middleware.py:19 - [tool monitor]执行工具：rag_summarize
+2026-04-02 11:06:28,327 - agent - INFO - middleware.py:20 - [tool monitor]传入参数：{'query': '瓷砖地板 扫地机器人 使用建议'}
+2026-04-02 11:06:33,140 - agent - INFO - middleware.py:24 - [tool monitor]工具rag_summarize调用成功
+2026-04-02 11:06:33,976 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有3条消息。
+2026-04-02 11:06:33,976 - agent - DEBUG - middleware.py:42 - [log_before_model]ToolMessage | 瓷砖地板上使用扫地机器人时，建议定期清理滚刷和边刷以防缠绕，保持地面无大颗粒硬物以免划伤瓷砖或损坏机器人，同时确保机器人底部传感器清洁以维持正常导航。
+2026-04-02 11:06:55,393 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有1条消息。
+2026-04-02 11:06:55,393 - agent - DEBUG - middleware.py:42 - [log_before_model]HumanMessage | 今天星期几
+2026-04-02 11:07:08,619 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有1条消息。
+2026-04-02 11:07:08,620 - agent - DEBUG - middleware.py:42 - [log_before_model]HumanMessage | 我喜欢一个女孩子怎么办
+2026-04-02 11:16:57,926 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有1条消息。
+2026-04-02 11:16:57,927 - agent - DEBUG - middleware.py:42 - [log_before_model]HumanMessage | 你好
+2026-04-02 11:17:31,499 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有1条消息。
+2026-04-02 11:17:31,499 - agent - DEBUG - middleware.py:42 - [log_before_model]HumanMessage | 你叫什么
+2026-04-02 11:17:45,868 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有1条消息。
+2026-04-02 11:17:45,869 - agent - DEBUG - middleware.py:42 - [log_before_model]HumanMessage | 我家170平米，用什么
+2026-04-02 11:17:48,517 - agent - INFO - middleware.py:19 - [tool monitor]执行工具：rag_summarize
+2026-04-02 11:17:48,519 - agent - INFO - middleware.py:20 - [tool monitor]传入参数：{'query': '170平米大户型扫地机器人选购建议'}
+2026-04-02 11:17:53,355 - agent - INFO - middleware.py:24 - [tool monitor]工具rag_summarize调用成功
+2026-04-02 11:17:54,598 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有3条消息。
+2026-04-02 11:17:54,598 - agent - DEBUG - middleware.py:42 - [log_before_model]ToolMessage | 170平米大户型建议选择续航时间长、尘盒容量大、支持自动回充和分区清扫的扫地机器人；优先考虑具备激光导航或视觉导航、路径规划能力强、吸力在2000Pa以上的型号；若预算充足，可选带自动集尘或自动洗拖布功能的高端机型以减少人工干预。
